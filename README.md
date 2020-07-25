@@ -23,7 +23,7 @@
 - a web browser
 - local web server
 
-In the ICS4U course, we were instructed to use [XAMPP](https://www.apachefriends.org/download.html) as it was a simple, lightweight, cross-platform Apache distribution that allows for creation of local web servers on a whim. 
+In the ICS3U course, we were instructed to use [XAMPP](https://www.apachefriends.org/download.html) as it was a simple, lightweight, cross-platform Apache distribution that allows for creation of local web servers on a whim. 
 
 ### How to Use
 1. Visit ``localhost/manager.php`` to populate the local database.
