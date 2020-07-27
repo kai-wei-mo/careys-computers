@@ -29,6 +29,6 @@ In the ICS3U course, we were instructed to use [XAMPP](https://www.apachefriends
 1. Visit ``localhost/manager.php`` to populate the local database.
 2. Visit ``localhost/index.php`` to open the website.
 
-##Contributors
+## Contributors
 - [@JunZhen-dev](https://github.com/JunZheng-dev)
 - [@shenbenson](https://github.com/shenbenson)
